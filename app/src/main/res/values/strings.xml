@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Morning Project One</string>
+    <string name="title_txt">Home</string>
+    <string name="btn_calc">Calculator</string>
+    <string name="btn_contact">Contacts</string>
+    <string name="btn_web">Website</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_sub">Sub</string>
+    <string name="btn_mul">Mul</string>
+    <string name="btn_div">Div</string>
+    <string name="first_num">Enter first number</string>
+    <string name="second_num">Enter second number</string>
+    <string-array name="contacts">
+        <item>Josiah</item>
+        <item>James</item>
+        <item>Khisia</item>
+        <item>Victoria</item>
+        <item>Tapiwa</item>
+        <item>Ephraim</item>
+        <item>Abdifatah</item>
+        <item>Michelle</item>
+        <item>Ryan</item>
+        <item>Emmanuel</item>
+        <item>Donald</item>
+        <item>Clinton</item>
+        <item>Patrick</item>
+        <item>Janet</item>
+        <item>Leah</item>
+        <item>Boby</item>
+        <item>Jared</item>
+        <item>Karen</item>
+        <item>Dennis</item>
+        <item>Glory</item>
+        <item>Elsie</item>
+        <item>Janice</item>
+    </string-array>
+</resources>
